@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pytesseract
+Pillow
+SpeechRecognition
+pyttsx3
