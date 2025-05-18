@@ -58,5 +58,3 @@ huggingface-cli login
 pip freeze > requirements.txt
 
 ---
-
-Let me know if you'd like me to generate the `requirements.txt`, upload screenshots, or convert this into a `.md` file directly.
